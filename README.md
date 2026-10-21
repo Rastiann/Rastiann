@@ -1,6 +1,6 @@
 # <img src="images/rubiks_cube.png" width="25" /> Bastian COCHARD
 
-![mosaic_manic](images/manic.png)
+<img src="images/manic.png" alt="mosaic_manic" style="border-radius: 20px;">
 
 ---
 
